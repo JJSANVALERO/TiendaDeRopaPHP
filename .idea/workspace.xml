@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e833943-47fd-46fa-8322-b1d5fa984af5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/controllers/delete_ropa_controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/register_ropa_controler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/delete_ropa_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/register_ropa_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/register_ropa.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/clientes_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/clientes_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/ropas_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/ropas_view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +51,7 @@
       <recent name="C:\xampp\htdocs\tiendaRopa\public\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tiendaRopa\views" />
       <recent name="C:\xampp\htdocs\tiendaRopa\models" />
     </key>
   </component>
@@ -57,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1683897597685</updated>
       <workItem from="1683897598990" duration="7098000" />
-      <workItem from="1683904859141" duration="1435000" />
+      <workItem from="1683904859141" duration="1521000" />
+      <workItem from="1683967835217" duration="10614000" />
     </task>
     <servers />
   </component>

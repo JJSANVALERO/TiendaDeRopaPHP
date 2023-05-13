@@ -11,7 +11,7 @@
         <p class="card-text">Fecha de Alta: <?php echo $ropa['fecha_alta']?></p>
         <p class="card-text">Hay Stock: <?php echo $ropa['hay_stock'] ? 'Yes' : 'No'?></p>
         <p class="card-text">Precio: <?php echo $ropa['precio']?></p>
-<!--        <a href="--><?php //echo URLSITE?><!--/?page=vermensajes&idtema=--><?php //echo $cliente['idcliente']?><!--" class="btn btn-primary">IR A TEMA</a>-->
+        <a href="<?php echo URLSITE?>/?page=deleteropa&id_ropa=<?php echo $ropa['id_ropa']?>" class="btn btn-primary">Borrar</a>
     </div>
     <?php endforeach; ?>
 </div>

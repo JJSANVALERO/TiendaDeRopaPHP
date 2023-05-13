@@ -3,6 +3,7 @@ if (session_status() == PHP_SESSION_NONE) {
     session_start();
 }
 require "config.php";
+
 $page = "menu";
 if (isset($_GET['page']))
     $page = $_GET['page'];

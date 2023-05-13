@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e833943-47fd-46fa-8322-b1d5fa984af5" name="Changes" comment="" />
+    <list default="true" id="1e833943-47fd-46fa-8322-b1d5fa984af5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/clientes_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/clientes_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/register_ropa.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/register_ropa.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +64,8 @@
       <workItem from="1683897598990" duration="7098000" />
       <workItem from="1683904859141" duration="1521000" />
       <workItem from="1683967835217" duration="10811000" />
+      <workItem from="1683987631899" duration="215000" />
+      <workItem from="1683988710656" duration="1788000" />
     </task>
     <servers />
   </component>

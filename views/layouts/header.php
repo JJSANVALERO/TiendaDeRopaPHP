@@ -6,14 +6,14 @@
     <link href="public/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand">Tienda de Ropa</a>
+            <a class="navbar-brand">Clothing Store</a>
             <div class="collapse navbar-collapse" id="navbarScroll">
                 <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="<?php echo URLSITE ?>?page=menu">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?php echo URLSITE ?>/?page=register">Registrar Ropa</a>
+                        <a class="nav-link" href="<?php echo URLSITE ?>/?page=register">Register Clothes</a>
                     </li>
                 </ul>
             </div>
